@@ -1,0 +1,4 @@
+cron:
+- description: "Check for expired locks"
+  url: /slack/tasks/check_expired
+  schedule: every 10 mins

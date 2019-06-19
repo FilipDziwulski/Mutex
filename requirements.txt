@@ -1,0 +1,7 @@
+Flask==1.0.2
+requests==2.21.0
+google-cloud-firestore
+google-api-python-client==1.7.8
+google-auth==1.6.3
+slackclient==2.0.0
+tzlocal
